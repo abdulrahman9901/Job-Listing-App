@@ -9,7 +9,7 @@ const Job = ({ job , setFilter}) => {
   
   return (
     <div className={"job-Card " + (clicked ? " selected-job" : "")} onClick={()=>handleClick()}>
-      <img src={job.logo} alt={job.name} className="card-icon" />
+      <img alt="Company Logo" src={job.logo} alt={job.name} className="card-icon" />
       <div className='content'>
       <div className='card-header'>
       <p className="card-name">{job.company}</p>

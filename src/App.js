@@ -52,7 +52,7 @@ function App() {
   return (
     <>
      <div className='bg-header'>
-        <img className='bg-header-img' src={backgroundImage}></img>
+        <img alt='Header background' className='bg-header-img' src={backgroundImage}></img>
       </div>
       {filterParams.length ? <div className='search-bar'>
         <button className='clear-btn' onClick={()=>setFilterParams([])}>Clear</button>
