@@ -57,7 +57,7 @@ margin-right: 10px;
 }
 .clear-btn:hover { 
   text-decoration: underline;
-  color: hsl(180, 29%, 50%);;
+  color: hsl(180, 29%, 50%);
 
 }
 .clear-btn {
@@ -70,4 +70,5 @@ margin-right: 10px;
 	font: inherit;
 	cursor: pointer;
 	outline: inherit;
+  color:  hsl(180, 8%, 52%);
 }

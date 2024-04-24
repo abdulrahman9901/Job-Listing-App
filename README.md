@@ -16,7 +16,7 @@ This is a solution to the [Job listings with filtering challenge on Frontend Men
 
 ### The challenge
 
-Your challenge is to build out this job listing page and get it looking as close to the design as possible.
+The challenge was to build out this job listing page and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
@@ -32,11 +32,12 @@ Use the [data.json](./data.json) file to pull the data and then dynamically add 
 
 To add a filter, the user needs to click on the tablets on the right side of the listing on desktop or the bottom on mobile. For each filter added, only listings containing all selected filters should be returned.
 
-\
-### Screenshot
+### Screenshots
 
 #### Desktop design
 ![](./screenshots/screen1.png)
+
+
 ![](./screenshots/screen2.png)
 
 #### Mobile design
@@ -44,7 +45,7 @@ To add a filter, the user needs to click on the tablets on the right side of the
 
 ### Links
 
-- Live Site URL: [Vercel](stats-preview-card-component-lazraec5o.vercel.app)
+- Live Site URL: [Vercel](https://job-listing-app-kappa.vercel.app/)
 
 ## My process
 
