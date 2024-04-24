@@ -65,7 +65,7 @@
     cursor:pointer;
 }
 .content {
-    width: -moz-available;
+    width: 100%;
 }
 .position-container{
     justify-content: space-between;
